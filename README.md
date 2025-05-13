@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Innovative Youth Hub</title>
+  <title>Opportunity Nexus</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <header>
-    <h1>Innovative Youth Hub</h1>
+    <h1>Opportunity Nexus</h1>
     <nav>
       <ul>
         <li><a href="index.html">Home</a></li>
@@ -27,7 +27,7 @@
   </main>
 
   <footer>
-    <p>&copy; 2025 Innovative Youth Hub. All rights reserved.</p>
+    <p>&copy; 2025 Oppornity Nexus. All rights reserved.</p>
   </footer>
 </body>
 </html>
